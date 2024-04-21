@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-image: linear-gradient(45deg, #560aad,#8631ad,#ad31ad ,rgb(238, 0, 255));
+    color: white;
+    padding: 15px;
+    border-bottom: 3px solid #ae00ff;
+
+}
+
+.menu{
+    background-color: #fff;
+    width: 100px;
+    text-decoration: none;
+    float: right;
+    margin-top: -25px;
+    
+
+
+}
+
+.container{
+    background-color: whitesmoke
+    min-height: 60vh;
+    padding: 50px;
+}
+
+.produtos-container{x
+    border-radius: 30px;
+    background-color: whitesmoke;
+    max-width: 1400px;
+    margin: auto;
+    box-shadow: 10px 5px 5px grey ;
+}
+
+.product-image{
+    width: 100%;
+    height: 300px;
+    margin-bottom: 10px;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.card{
+    width: 31%;
+    margin: 1%;
+    display: inline-block;
+    padding: 15px;
+    
+}
+.card:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.4s;    
+
+}
+
+
+
+
+#img-1{
+    background-image: url("../img/tenis1.jpg");
+}
+
+#img-2{
+    background-image: url("../img/tenis2.jpg");
+}
+
+#img-3{
+    background-image: url("../img/tenis3.jpg");
+}
+
+#img-4{
+    background-image: url("../img/tenis4.jpg");
+}
+
+#img-5{
+    background-image: url("../img/tenis5.jpg");
+}
+
+#img-6{
+    background-image: url("../img/tenis6.jpg");
+}
+
+h3{
+    margin-bottom: 10px;
+    
+    border-left: 5px solid #ae00ff;
+    padding-left: 7px;
+    font-size: 24px;
+
+}
+
+
+
+.card p{
+    margin-bottom: 20px;
+    font-size: 12px;
+
+}
+
+.bold{
+    font-size: 25px;
+    font-weight: 900;
+    color: green;
+}
+
+.btn{
+    float: right;
+    text-decoration: none;
+    display: block;
+    width: 70%;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #560aad;
+    color: #eee;
+    border-radius: 5px;
+    padding: 15px;
+
+
+
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-color: #ae00ff;
+    transform: scale(1.07);
+    transition: 0.5s;
+}
+
+footer{
+    border-top: 3px solid #ae00ff;
+    height: 100px;
+    background-image: linear-gradient(45deg, #560aad,#8631ad,#ad31ad ,rgb(238, 0, 255));
+}
+
+.copyright{
+    color: white;
+}
