@@ -9,7 +9,7 @@
 [![CPU](https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white
 )]()
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark300&show_icons=true&theme=Gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark300&show_icons=true&theme=Radical)
 
 
 #### Linguagens que eu mais utilizo
