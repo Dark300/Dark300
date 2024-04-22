@@ -9,8 +9,7 @@
 [![CPU](https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white
 )]()
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark300&show_icons=true&theme=Radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 #### Linguagens que eu mais utilizo
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
