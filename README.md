@@ -9,9 +9,8 @@
 [![CPU](https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white
 )]()
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark300&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark300&show_icons=true&theme=gradient)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark300)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Linguagens que eu mais utilizo
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
