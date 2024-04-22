@@ -1,0 +1,145 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+	font-family: helvetica;
+	
+}
+
+.topo {
+	height: 80px;
+    background-color: #F8F8FF;
+}
+
+.inferior {
+	width: 80%;
+	margin: auto;
+}
+
+.logomarca {
+	float: left;
+	padding-left: 20px;
+	padding-right: 20px;
+	line-height: 50px;
+	font-size: 60px;
+	border-radius: 15px;
+	background-color: lightblue;
+	margin: 15px;
+	
+}
+
+
+.menu ul, menu li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+
+}
+
+.menu li {
+	float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 50px;
+    margin-top: 15px;
+}
+
+.menu li:hover {
+	cursor: pointer;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-radius: 20px;
+	background-color: dodgerblue;
+}
+
+.sbr{
+	text-decoration: none;
+}
+
+.retanguloinferior {
+	height: 400px;
+	background-color: lightblue;
+}
+
+.logomarcainferior{
+	padding-top: 50px;
+	line-height: 100px;
+	font-family: helvetica;
+	font-size: 80px;
+	display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.menuinferior{
+	padding-top: 20px;
+	display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+	line-height: 100px;
+}
+
+	
+
+.botao button {
+	border-width: 2px;
+	border-style: none;
+	cursor: pointer;
+	margin-top: 50px;
+	padding: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	line-height: 30px;
+	border-radius: 30px;
+	border-color:black	;
+	background-color: dodgerblue;
+}
+
+.botao button:hover{
+	border-style: none;
+	background-color:  white;
+
+}
+
+.ret3 {
+	background-color: floralwhite;
+	height: 350px;
+}
+
+.titulo {
+	padding-top: 30px;
+	font-size: 40px;
+	display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.redes{
+	padding-top: 50px;
+	height: 200px;
+}
+
+
+.instagram {
+	padding-left: 10px;
+
+}
+	
+
+
+.twitter {
+	padding-left: 200px;
+
+}
+
+.tiktok{
+	padding-left: 200px;
+}

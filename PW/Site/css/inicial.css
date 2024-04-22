@@ -1,0 +1,129 @@
+*  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --corbuttons: #12FF46;
+
+    --fonte-padrão: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #04765c;
+}
+
+header {
+    height: 100px;
+    background-color: var(--corheader);
+    border-bottom: 4px solid #fff;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+header .div-logo {
+    height: 70px;
+    background: linear-gradient(to right, rgb(115, 214, 115), lightblue 80%);
+    margin-left: 20px;
+    padding: 0px 20px;
+    border-radius: 20px;
+    display: flex;
+}
+
+.div-helpme {
+    height: 300px;
+    display: flex;
+}
+
+#pesquisa{
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    border-radius: 10px;
+    border-style: none;
+    height: 35px;
+    padding: auto;
+    width: 250px;
+}
+
+main{
+    height: 400px;
+    border-bottom: 4px solid #fff;
+}
+
+.section-main {
+    height: 130px;
+    width: 1000px;
+    background-color: #fff;
+    border-radius: 40px;
+    margin: auto;
+    margin-top: 60px;
+    box-shadow: 2px 2px 2px rgba(13, 63, 11, 0.411);
+}
+
+article p {
+    text-align: center;
+    font-family: 'Bree Serif', sans-serif;
+    font-size: 26px;
+    padding-top: 10px;
+
+}
+
+span {
+    color: #07dd79;
+}
+
+.section-caixas {
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+}
+
+.section-caixas .div-caixas {
+    height: 180px;
+    width: 300px;
+    background-color: #fff;
+    margin-top: 40px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px rgba(13, 63, 11, 0.411);
+    display: flex;
+}
+
+.div-caixas:hover {
+    cursor: pointer;
+    background-color: #01fcbd85;
+    transform: scale(1.04);
+    transition: 500ms;
+}
+
+.div-caixas strong {
+    margin: auto;
+    font-family: var(--fonte-padrão);
+    font-size: 20px;
+}
+
+footer {
+    height: 50px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    padding: 15px 40px;
+    border-radius: 15px;
+    border: none;
+    background-color: var(--corbuttons);
+    margin-right: 30px;
+}
+
+button:hover {
+    background-color: #fff;
+    color: #04765c;
+}
+
+
+
